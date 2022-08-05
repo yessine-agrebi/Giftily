@@ -105,6 +105,7 @@ img { max-width: 100%; }
 .subscribe form input {
     width: 362px;
     height: 52px;
+    color: black;
 }
 
 .success-message, .error-message {
